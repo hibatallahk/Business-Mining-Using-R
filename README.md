@@ -1,2 +1,2 @@
-# Business-Mining-Using-R
-Business Mining with R on DataCamp
+# Process-Mining-Using-R
+Process Mining with R on DataCamp
